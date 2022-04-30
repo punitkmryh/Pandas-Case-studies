@@ -1,0 +1,2 @@
+occupation: https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user
+alchol: https://raw.githubusercontent.com/justmarkham/DAT8/master/data/drinks.csv
